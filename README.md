@@ -42,7 +42,8 @@ Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya n
 Untuk mendapat tampilan pengkondisian IF ELSE seperti diatas, buatlah file baru dengan nama file disini saya namakan KondisiIF.php dalam directory lab2_php_dasar. 
 
 # KONDISI SWITCH
-![Screenshot (123)](https://user-images.githubusercontent.com/93463612/226532048-0a9df8e3-98d6-459a-aa76-c46ecf7ed25d.png)
+![KondisiSwitch](https://user-images.githubusercontent.com/93463612/226601416-85e3ba9a-6947-4494-a2b0-d5339577d894.png)
+
 
 Untuk mendapat tampilan pengkondisian SWITCH CASE dengan break seperti diatas, buatlah file baru dengan nama file disini saya namakan KondisiSwitch.php dalam directory lab2_php_dasar. 
   
@@ -62,4 +63,7 @@ Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disin
   
 # PERTANYAAN DAN TUGAS
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama , tanggal lahir dan pekerjaan . Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir . Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
+
+
+
 ![Tugas3](https://user-images.githubusercontent.com/93463612/226532245-f0916582-ed30-4d09-934a-440dc3373c43.png)
